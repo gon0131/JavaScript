@@ -1,0 +1,1 @@
+alert('JavaScriptを使用する');
